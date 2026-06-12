@@ -1,0 +1,6 @@
+{
+  "name": "Secure Auth",
+  "description": "Secure Authentication Portal featuring a modern, fully functional local credentials database, custom visual aesthetics, login & signup pages, and reactive Material 3 components.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
